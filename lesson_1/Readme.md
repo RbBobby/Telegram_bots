@@ -31,7 +31,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone https://github.com/your-repo/telegram-bot
+git clone https://github.com/RbBobby/Telegram_bots
 cd telegram-bot
 ```
 
