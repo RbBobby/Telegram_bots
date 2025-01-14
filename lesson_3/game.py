@@ -5,7 +5,6 @@ from telebot.types import ReplyKeyboardRemove
 from load import load_questions
 import keyboard
 
-COUNT_OF_QUESTIONS = 100
 questions = load_questions()  # Загружаем вопросы
 size_questions = len(questions)
 user_states = {}  # Состояния пользователей
